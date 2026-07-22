@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jmi5os.pulaucuan.sbs/sitemap.xml
